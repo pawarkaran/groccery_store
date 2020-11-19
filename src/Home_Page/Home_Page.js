@@ -399,7 +399,7 @@ export const Home_Page = () => {
                                 </Card.Footer>
                             </Card>
 
-                            <Card className="cardy">
+                            <Card className="cardy 1">
                                 <div className="image-box">
                                     <Card.Img variant="top"
                                         src={process.env.PUBLIC_URL + "/images/homepage/cards/organic.webp"} />
