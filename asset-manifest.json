@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.4dffe924.chunk.css",
-    "main.js": "/static/js/main.626899f9.chunk.js",
-    "main.js.map": "/static/js/main.626899f9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.55792d79.js",
-    "runtime-main.js.map": "/static/js/runtime-main.55792d79.js.map",
-    "static/css/2.f8cfd942.chunk.css": "/static/css/2.f8cfd942.chunk.css",
-    "static/js/2.0ab30a57.chunk.js": "/static/js/2.0ab30a57.chunk.js",
-    "static/js/2.0ab30a57.chunk.js.map": "/static/js/2.0ab30a57.chunk.js.map",
-    "static/js/3.6f861afb.chunk.js": "/static/js/3.6f861afb.chunk.js",
-    "static/js/3.6f861afb.chunk.js.map": "/static/js/3.6f861afb.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.f8cfd942.chunk.css.map": "/static/css/2.f8cfd942.chunk.css.map",
-    "static/css/main.4dffe924.chunk.css.map": "/static/css/main.4dffe924.chunk.css.map",
-    "static/js/2.0ab30a57.chunk.js.LICENSE.txt": "/static/js/2.0ab30a57.chunk.js.LICENSE.txt",
-    "static/media/home_page.scss": "/static/media/phone.92db7229.webp",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "/groccery_store/static/css/main.b534a1be.chunk.css",
+    "main.js": "/groccery_store/static/js/main.c647cb1e.chunk.js",
+    "main.js.map": "/groccery_store/static/js/main.c647cb1e.chunk.js.map",
+    "runtime-main.js": "/groccery_store/static/js/runtime-main.04df2b07.js",
+    "runtime-main.js.map": "/groccery_store/static/js/runtime-main.04df2b07.js.map",
+    "static/css/2.f8cfd942.chunk.css": "/groccery_store/static/css/2.f8cfd942.chunk.css",
+    "static/js/2.0ab30a57.chunk.js": "/groccery_store/static/js/2.0ab30a57.chunk.js",
+    "static/js/2.0ab30a57.chunk.js.map": "/groccery_store/static/js/2.0ab30a57.chunk.js.map",
+    "static/js/3.6f861afb.chunk.js": "/groccery_store/static/js/3.6f861afb.chunk.js",
+    "static/js/3.6f861afb.chunk.js.map": "/groccery_store/static/js/3.6f861afb.chunk.js.map",
+    "index.html": "/groccery_store/index.html",
+    "static/css/2.f8cfd942.chunk.css.map": "/groccery_store/static/css/2.f8cfd942.chunk.css.map",
+    "static/css/main.b534a1be.chunk.css.map": "/groccery_store/static/css/main.b534a1be.chunk.css.map",
+    "static/js/2.0ab30a57.chunk.js.LICENSE.txt": "/groccery_store/static/js/2.0ab30a57.chunk.js.LICENSE.txt",
+    "static/media/home_page.scss": "/groccery_store/static/media/phone.92db7229.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.55792d79.js",
+    "static/js/runtime-main.04df2b07.js",
     "static/css/2.f8cfd942.chunk.css",
     "static/js/2.0ab30a57.chunk.js",
-    "static/css/main.4dffe924.chunk.css",
-    "static/js/main.626899f9.chunk.js"
+    "static/css/main.b534a1be.chunk.css",
+    "static/js/main.c647cb1e.chunk.js"
   ]
 }
